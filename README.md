@@ -92,6 +92,3 @@ BujurSangkar berwarna Biru, luas = 25.0
 Lingkaran Hijau, luas = 153.86
 Silinder warna Kuning, volume = 15386.0
 ```
-
-## Catatan
-Perhitungan lingkaran menggunakan nilai `PHI = 3.14`, bukan konstanta presisi penuh π. Hasil perhitungan mengikuti nilai tersebut.
